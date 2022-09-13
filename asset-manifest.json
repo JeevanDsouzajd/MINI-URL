@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MINI-URL/static/css/main.05a95de3.css",
+    "main.js": "/MINI-URL/static/js/main.98ea6afa.js",
+    "index.html": "/MINI-URL/index.html",
+    "main.05a95de3.css.map": "/MINI-URL/static/css/main.05a95de3.css.map",
+    "main.98ea6afa.js.map": "/MINI-URL/static/js/main.98ea6afa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a95de3.css",
+    "static/js/main.98ea6afa.js"
+  ]
+}
